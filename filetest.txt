@@ -1,0 +1,8 @@
+['hello', 'no']
+{hello}
+hello
+a greeting
+{no}
+no
+cannot do
+
